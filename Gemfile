@@ -4,5 +4,6 @@ gem "rspec"
 #gem "hashie"
 
 group :development do
-gem "pry"
+  gem "pry"
+  gem "rspec"
 end
